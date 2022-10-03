@@ -31,7 +31,6 @@ const Demo = () => {
         </tbody>
       </table>
     </div>
-
       
 
   );
